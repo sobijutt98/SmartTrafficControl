@@ -1,0 +1,3 @@
+
+const TRAFFIC_DATA_LIMIT = 50;
+export default TRAFFIC_DATA_LIMIT;
